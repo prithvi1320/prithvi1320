@@ -22,18 +22,11 @@
 ---
 
 ## 🚀 Featured Projects
-- 🧠 [AI Resume ATS](https://github.com/prithvi1320/ai-resume-ats)
-- ✨ [FormFit AI](https://github.com/prithvi1320/FormFit-AI)
-- 🎨 [AdaIN Neural Style Transfer](https://github.com/prithvi1320/adain-neural-style-transfer)
-- 🚆 [RailSeva](https://github.com/prithvi1320/RailSeva)
-- 📰 [VibeFeed](https://github.com/prithvi1320/Vibefeed)
-
----
-
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=prithvi1320&show_icons=true&theme=tokyonight" height="170" />
-</p>
+- 🧠 **[AI Resume ATS](https://github.com/prithvi1320/ai-resume-ats)** – Scores resumes against ATS criteria, compares them with job descriptions, and suggests improvements.
+- ✨ **[FormFit AI](https://github.com/prithvi1320/FormFit-AI)** – Provides real-time workout feedback with pose tracking, rep counting, form metrics, and optional AI coaching.
+- 🎨 **[AdaIN Neural Style Transfer](https://github.com/prithvi1320/adain-neural-style-transfer)** – Applies an image’s visual style to a content image with adjustable style strength.
+- 🚆 **[RailSeva](https://github.com/prithvi1320/RailSeva)** – Railway complaint management platform for reporting issues, tracking status, and receiving updates.
+- 📰 **[VibeFeed](https://github.com/prithvi1320/Vibefeed)** – AI-powered news platform that analyzes and classifies news sentiment.
 
 ---
 
