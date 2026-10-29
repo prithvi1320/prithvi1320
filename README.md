@@ -3,7 +3,7 @@
 </p>
 
 <h2 align="center">👋 Hi, I'm Prithvi Singh</h2>
-<h3 align="center">AI Engineer | Applied AI & Machine Learning</h3>
+<h3 align="center">Applied AI & Machine Learning</h3>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=36BCF7&center=true&vCenter=true&width=600&lines=Building+AI-powered+applications;Applied+Machine+Learning;Computer+Vision;Turning+ideas+into+useful+AI+tools" />
 </p>
